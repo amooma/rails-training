@@ -1,4 +1,4 @@
-rails-training
-==============
+Rails Training Material
+=======================
 
-Training material for Ruby on Rails
+Training material for a Ruby on Rails training.
