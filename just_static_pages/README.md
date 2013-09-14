@@ -21,4 +21,4 @@ Tip
 
 This project includes a test which you can use to analyse your work.
 
-Run `rake test` to run the tests. Don't forget to run `rake db:migrate` before you run the first time `rake test`
+Use the command `rake test` to run the tests. Don't forget to run `rake db:migrate` before you run the first time `rake test`
