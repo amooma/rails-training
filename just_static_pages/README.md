@@ -15,3 +15,10 @@ The content of http://0.0.0.0:3000/home/about should be:
 
     <h1>About</h1>
     <p>Some basic info about this project.</p>
+
+Tip
+===
+
+This project includes a test which you can use to analyse your work.
+
+Run `rake test` to run the tests. Don't forget to run `rake db:migrate` before you run the first time `rake test`
